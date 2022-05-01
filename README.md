@@ -22,6 +22,7 @@
 <a href="https://instagram.com/vince.prinz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vince.prinz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/spyminer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spyminer" height="30" width="40" /></a>
 <a href="https://discord.gg/ZWzP7uc3cU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZWzP7uc3cU" height="30" width="40" /></a>
+<a href="" target="black"><img align="center" src="https://discord.c99.nl/widget/theme-3/418323201811152897.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
