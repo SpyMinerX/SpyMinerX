@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyminerx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="spyminerx"/></p>
 
-<p![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" alt="spyminerx" /></p>
