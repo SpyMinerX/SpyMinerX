@@ -34,4 +34,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" alt="spyminerx" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" alt="spyminerx" /> </p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" alt="spyminerx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight" alt="spyminerx" /> </p>
