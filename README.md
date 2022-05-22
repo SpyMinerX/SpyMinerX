@@ -34,7 +34,7 @@
 
 
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=spyminerx&show_icons=true&theme=tokyonight&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=spyminerx&layout=compact)" alt="spyminerx"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyminerx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="spyminerx"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyminerx&show_icons=true&theme=tokyonight&locale=en" alt="spyminerx" /></p>
 
