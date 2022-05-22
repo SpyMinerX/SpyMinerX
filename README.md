@@ -31,4 +31,4 @@
 
 <p><a href="https://www.buymeacoffee.com/SpyMiner"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SpyMiner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" alt="spyminerx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight" alt="spyminerx" /> </p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" height="50" width="210" alt="spyminerx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight" height="50" width="210" alt="spyminerx" /> </p>
