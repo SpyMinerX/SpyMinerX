@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Glacier Client (1.8.8 MC PVP Client)](www.glacierclient.net)
 
-- 👨‍💻 All of my projects are available at [spyminer.is-a.dev](spyminer.dev)
+- 👨‍💻 All of my projects are available at [spyminer.dev](spyminer.dev)
 
 - 💬 Ask me about **Anything and im happy to help**
 
