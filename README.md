@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Anything and im happy to help**
 
-- 📫 How to reach me **vince@engelbrecht.pro**
+- 📫 How to reach me **contact@spyminer.dev**
 
-- 📄 Know about my experiences [spyminer.is-a.dev/CV](spyminer.is-a.dev/CV)
+- 📄 Know about my experiences [spyminer.dev/CV](spyminer.dev/CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
