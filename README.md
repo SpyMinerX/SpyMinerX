@@ -30,7 +30,3 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/SpyMiner"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SpyMiner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spyminerx&theme=dark" height="50" width="210" alt="spyminerx" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&theme=tokyonight" height="50" width="210" alt="spyminerx" /> </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SpyMInerX&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
