@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm SpyMiner</h1>
 <h3 align="center">A "Full Stack" Engineer and Programmer</h3>
 
-- 🔭 I’m currently working on [Glacier Client (1.8.8 MC PVP Client)](www.glacierclient.net)
+- 🔭 I’m currently working on [Glacier Client (1.8.8 MC PVP Client)](https://www.glacierclient.net) and [CloudESP](https://cloudesp.tk)
 
 - 🌱 I’m currently learning **API and SQL optimization**
 
 - 👯 I’m looking to collaborate on **ScriptMC (simple minecraft script for plugins/mods)**
 
-- 🤝 I’m looking for help with [Glacier Client (1.8.8 MC PVP Client)](www.glacierclient.net)
+- 🤝 I’m looking for help with [Glacier Client (1.8.8 MC PVP Client)](https://www.glacierclient.net) and [CloudESP](https://cloudesp.tk)
 
-- 👨‍💻 All of my projects are available at [spyminer.dev](spyminer.dev)
+- 👨‍💻 All of my projects are available at [spyminer.dev](https://spyminer.dev)
 
 - 💬 Ask me about **Anything and im happy to help**
 
 - 📫 How to reach me **contact@spyminer.dev**
 
-- 📄 Know about my experiences [spyminer.dev/CV](spyminer.dev/CV)
+- 📄 Know about my experiences [spyminer.dev/CV](https://spyminer.dev/CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
