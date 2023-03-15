@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **ScriptMC (simple minecraft script for plugins/mods)**
 
-- 🤝 I’m looking for help with [Glacier Client (1.8.8 MC PVP Client)](https://www.glacierclient.net) and [CloudESP](https://cloudesp.tk)
+- 🤝 I’m looking for help with [CloudESP](https://cloudesp.tk)
 
 - 👨‍💻 All of my projects are available at [spyminer.dev](https://spyminer.dev)
 
 - 💬 Ask me about **Anything and im happy to help**
 
-- 📫 How to reach me **contact@spyminer.dev**
+- 📫 How to reach me **contact@spyminer.dev** or on Discord: SpyMiner#0001
 
 - 📄 Know about my experiences [spyminer.dev/CV](https://spyminer.dev/CV)
 
