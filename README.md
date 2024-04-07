@@ -2,7 +2,7 @@
 <h3 align="center">A "Full Stack" Engineer and Programmer</h3>
 <h2 align="center"> 🏳️‍⚧️</h2>
 
-- 🔭 I’m currently working on [Glacier Client (1.8.8 MC PVP Client)](https://www.glacierclient.net) and [CloudESP](https://cloudesp.tk)
+- 🔭 I’m currently working on [Glacier Client (1.8.8 MC PVP Client)](https://github.com/Glacier-Client/GLC-client) and [CloudESP](https://cloudesp.tk)
 
 - 🌱 I’m currently learning **API and SQL optimization**
 
