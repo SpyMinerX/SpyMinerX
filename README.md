@@ -1,30 +1,175 @@
-<h1 align="center">Hi 👋, I'm SpyMiner</h1>
-<h3 align="center">A "Full Stack" Engineer and Programmer</h3>
-<h2 align="center"> 🏳️‍⚧️</h2>
+<!--
+  SpyMiner · GitHub Profile README
+  Maintained for: https://github.com/SpyMinerX
 
-- 🔭 I’m currently working on [Glacier Client (1.8.8 MC PVP Client)](https://github.com/Glacier-Client/GLC-client) and [CloudESP](https://cloudesp.tk)
+  Before publishing:
+  - Confirm contact@spyminer.dev and the Discord link.
+  - Add your LinkedIn URL.
+  - Add a verified MedMesh description.
+-->
 
-- 🌱 I’m currently learning **API and SQL optimization**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **ScriptMC (simple minecraft script for plugins/mods)**
+# Hey, I'm SpyMiner 🏳️‍⚧️
 
-- 🤝 I’m looking for help with [CloudESP](https://cloudesp.tk)
+**Backend-first Full-Stack Engineer · Infrastructure Enthusiast · Systems Thinker**
 
-- 👨‍💻 All of my projects are available at [spyminer.dev](https://spyminer.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" alt="Backend engineering, distributed infrastructure and practical systems" />
+</picture>
 
-- 💬 Ask me about **Anything and im happy to help**
+<br />
 
-- 📫 How to reach me **contact@spyminer.dev** or on Discord: SpyMiner#0001
+<img src="https://img.shields.io/badge/Location-Ingolstadt%2C_Germany-0f172a?style=flat-square" alt="Ingolstadt, Germany" />
+<img src="https://img.shields.io/badge/TUM_×_THI-Student-0f766e?style=flat-square" alt="Student at TUM and THI" />
+<img src="https://img.shields.io/badge/Open_to-Work_%26_Freelance-0891b2?style=flat-square" alt="Open to work and freelance projects" />
 
-- 📄 Know about my experiences [spyminer.dev/CV](https://spyminer.dev/CV)
+<br /><br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vince.prinz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vince.prinz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/spyminer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spyminer" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/418323201811152897" target="black"><img align="center" src="https://discord.c99.nl/widget/theme-3/418323201811152897.png">
-</p>
+<a href="https://spyminer.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:contact@spyminer.dev"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/418323201811152897"><img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<br><br>
+<!-- Add LinkedIn when its actual URL is confirmed. -->
+
+</div>
+
+---
+
+## 01 / About me · Über mich
+
+I build software **from the backend outward**—from APIs and applications to the infrastructure they run on. My main interests are **self-hosting, distributed systems, high availability, and dependable communication technology**. To me, the language is a tool; the system design and the problem being solved matter more.
+
+Away from the keyboard, I'm a **paramedic and firefighter**. I also work with communications systems for civil protection (*Katastrophenschutz*), including radio and IT technology and technical vehicle outfitting in projects connected with the **Bavarian Red Cross (BRK)** and fire services.
+
+<details>
+<summary>🇩🇪 Auf Deutsch</summary>
+<br />
+
+Ich entwickle Software **vom Backend aus gedacht** – von APIs und Anwendungen bis zur Infrastruktur, auf der sie laufen. Meine Schwerpunkte sind **Self-Hosting, verteilte Systeme, Hochverfügbarkeit und zuverlässige Kommunikationstechnik**. Programmiersprachen sind für mich Werkzeuge; entscheidend sind die Architektur und das Problem, das gelöst werden soll.
+
+Neben der IT bin ich **im Rettungsdienst und in der Feuerwehr aktiv**. Außerdem beschäftige ich mich mit Kommunikationssystemen im **Katastrophenschutz** – insbesondere Funk- und IT-Technik sowie dem technischen Ausbau von Einsatzfahrzeugen im Umfeld von **BRK und Feuerwehr**.
+
+</details>
+
+## 02 / Featured work · Ausgewählte Projekte
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AegisMesh
+**Private infrastructure · Eigene Infrastruktur**
+
+My custom **high-availability, stateless hosting platform**, built around Docker Swarm, CDN integration and globally synchronized databases. It provides the infrastructure behind projects including Lumpenladen and Junge Poesie.
+
+*Meine eigene hochverfügbare Plattform für zustandslose Dienste mit Docker Swarm, CDN und weltweit synchronisierten Datenbanken.*
+
+`Docker Swarm` `Oracle Cloud` `Stateless Services` `Distributed Data`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Lumpenladen](https://lumpenladen.net)
+**Multi-tenant commerce · Mandantenfähige Shop-Plattform**
+
+A launched multi-tenant shop platform with administration for tenants, products and orders. One of the applications supported by AegisMesh.
+
+*Eine veröffentlichte Shop-Plattform mit Mandantenverwaltung sowie Produkt- und Bestellverwaltung.*
+
+[Explore the platform →](https://lumpenladen.net)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [Junge Poesie](https://jungepoesie.de)
+**Culture & community · Kultur & Gemeinschaft**
+
+The online home of **Poesieteam e.V.**, featuring poetry, publications and events for a literary community in Ingolstadt and Regensburg. Hosted through AegisMesh.
+
+*Die Plattform des Poesieteam e.V. für Gedichte, Publikationen und Veranstaltungen in Ingolstadt und Regensburg.*
+
+[Visit the platform →](https://jungepoesie.de)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [DoldenWerk](https://doldenwerk.de)
+**Digital presence · Webauftritt**
+
+A business web presence for print, textiles, merchandise and branding services.
+
+*Ein Webauftritt rund um Druck, Textilien, Merchandise und Markenaufbau.*
+
+[Visit DoldenWerk →](https://doldenwerk.de)
+
+</td>
+</tr>
+</table>
+
+**More / Weitere Projekte:** [MedMesh](https://medmesh.de)
+
+<!-- Add a factual project description here once confirmed. -->
+
+> Some of my most interesting systems are private or infrastructure-focused. Public repository statistics tell only part of the story.
+>
+> *Ein Teil meiner interessantesten Arbeit findet in privater Infrastruktur statt – öffentliche Repositories zeigen daher nur einen Ausschnitt.*
+
+## 03 / Tech & engineering · Technologien
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,py,c,docker,linux,git&amp;theme=dark" alt="JavaScript, Python, C, Docker, Linux and Git" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Cloud Infrastructure" />
+<img src="https://img.shields.io/badge/Docker-Swarm-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker Swarm" />
+<img src="https://img.shields.io/badge/Architecture-Stateless_Services-0F766E?style=flat-square" alt="Stateless services" />
+<img src="https://img.shields.io/badge/Systems-High_Availability-0891B2?style=flat-square" alt="High availability" />
+
+</div>
+
+**Where I focus / Meine Schwerpunkte:** Backend engineering · Self-hosted infrastructure · Container orchestration · CDNs · Database synchronization · Networking & communications · System administration
+
+**Languages / Sprachen:** JavaScript · Python · C — chosen according to the problem, not the other way around.
+
+## 04 / Education & experience · Studium & Erfahrung
+
+- 🎓 **TUM** — Electrical Engineering & Information Technology / *Elektrotechnik und Informationstechnik*
+- 🎓 **THI** — Flight & Vehicle Informatics / *Flug- und Fahrzeuginformatik*
+- ⚛️ **UK Atomic Energy Authority (UKAEA)** — internship at **JET** / *Praktikum am JET*
+- 🚒 **Emergency services** — paramedic & firefighter / *Rettungsdienst & Feuerwehr*
+- 📻 **Civil protection** — radio, communications & vehicle IT / *Funk-, Kommunikations- und Fahrzeug-IT im Katastrophenschutz*
+
+## 05 / GitHub languages · Sprachen auf GitHub
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true" alt="Languages used in public GitHub repositories" />
+</picture>
+
+<sub>Based on public GitHub repositories, not a ranking of my skills. / Basierend auf öffentlichen Repositories, nicht auf meinem Kenntnisstand.</sub>
+</div>
+
+## 06 / Let's connect · Kontakt
+
+I’m open to **selected freelance work, collaborations and engineering opportunities**, especially around **backend platforms, infrastructure, self-hosting and systems that solve real problems**.
+
+*Ich bin offen für ausgewählte **Freelance-Projekte, Kooperationen und berufliche Möglichkeiten** – besonders in den Bereichen Backend, Infrastruktur, Self-Hosting und praxisnahe Systemtechnik.*
+
+**[Portfolio](https://spyminer.dev) · [Email](mailto:contact@spyminer.dev) · [Discord](https://discord.com/users/418323201811152897)**
+
+<!-- TODO: Insert your confirmed LinkedIn profile URL here. -->
+
+<div align="center">
+
+<sub>Built with curiosity, maintained with care. · Mit Neugier gebaut, mit Sorgfalt betrieben.</sub>
+
+</div>
