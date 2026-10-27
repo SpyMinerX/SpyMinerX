@@ -1,38 +1,38 @@
 <!--
   SpyMiner · GitHub Profile README
-  Maintained for: https://github.com/SpyMinerX
-
-  Before publishing:
-  - Confirm contact@spyminer.dev and the Discord link.
-  - Add your LinkedIn URL.
-  - Add a verified MedMesh description.
+  Profile: https://github.com/SpyMinerX
+  Pending: confirmed LinkedIn URL, MedMesh description, publication author/year metadata.
+  AegisMesh's planned European footprint is not presented as deployed.
 -->
 
 <div align="center">
 
-# Hey, I'm SpyMiner 🏳️‍⚧️
+<h1>Hey, I'm SpyMiner 🏳️‍⚧️</h1>
 
-**Backend-first Full-Stack Engineer · Infrastructure Enthusiast · Systems Thinker**
+<strong>Backend-first Full-Stack Engineer · Infrastructure Builder · Systems Enthusiast</strong>
+
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Engineering+software+from+backend+to+infrastructure;Building+distributed%2C+high-availability+systems;Connecting+cloud%2C+communications+and+the+real+world;Technik%2C+die+nicht+nur+auf+dem+Papier+funktioniert" alt="Backend engineering, distributed infrastructure and practical systems" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Backend+engineering+%26+distributed+infrastructure;Designing+resilient+systems+that+actually+run;Bridging+software%2C+hardware+and+communications;Building+for+the+real+world" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Backend+engineering+%26+distributed+infrastructure;Designing+resilient+systems+that+actually+run;Bridging+software%2C+hardware+and+communications;Building+for+the+real+world" />
+  <img alt="Backend engineering, distributed infrastructure and real-world systems" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Backend+engineering+%26+distributed+infrastructure;Designing+resilient+systems+that+actually+run;Bridging+software%2C+hardware+and+communications;Building+for+the+real+world" />
 </picture>
 
 <br />
 
-<img src="https://img.shields.io/badge/Location-Ingolstadt%2C_Germany-0f172a?style=flat-square" alt="Ingolstadt, Germany" />
-<img src="https://img.shields.io/badge/TUM_×_THI-Student-0f766e?style=flat-square" alt="Student at TUM and THI" />
-<img src="https://img.shields.io/badge/Open_to-Work_%26_Freelance-0891b2?style=flat-square" alt="Open to work and freelance projects" />
+<img alt="Based in Ingolstadt" src="https://img.shields.io/badge/Ingolstadt-Germany-0f172a?style=flat-square" />
+<img alt="TUM and THI student" src="https://img.shields.io/badge/TUM_%26_THI-Student-0f766e?style=flat-square" />
+<img alt="Open to work and freelance" src="https://img.shields.io/badge/Open_to-Work_%26_Freelance-0891b2?style=flat-square" />
 
 <br /><br />
 
-<a href="https://spyminer.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:contact@spyminer.dev"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-<a href="https://discord.com/users/418323201811152897"><img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
+<a href="https://spyminer.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" /></a>
+<a href="https://aegismesh.xyz"><img alt="AegisMesh" src="https://img.shields.io/badge/AegisMesh-0f172a?style=for-the-badge&amp;logo=docker&amp;logoColor=white" /></a>
+<a href="mailto:contact@spyminer.dev"><img alt="Email" src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://discord.com/users/418323201811152897"><img alt="Discord" src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&amp;logo=discord&amp;logoColor=white" /></a>
 
-<!-- Add LinkedIn when its actual URL is confirmed. -->
+<!-- Add a LinkedIn badge once the correct profile URL is available. -->
 
 </div>
 
@@ -40,136 +40,123 @@
 
 ## 01 / About me · Über mich
 
-I build software **from the backend outward**—from APIs and applications to the infrastructure they run on. My main interests are **self-hosting, distributed systems, high availability, and dependable communication technology**. To me, the language is a tool; the system design and the problem being solved matter more.
+I'm a **backend-focused full-stack engineer** who enjoys working across the entire system: application code, APIs, networks, infrastructure and the hardware at the other end. I'm particularly interested in **distributed systems, self-hosting, high availability, container orchestration and communication technology**. Languages are tools; architecture, reliability and a useful result come first.
 
-Away from the keyboard, I'm a **paramedic and firefighter**. I also work with communications systems for civil protection (*Katastrophenschutz*), including radio and IT technology and technical vehicle outfitting in projects connected with the **Bavarian Red Cross (BRK)** and fire services.
+I study **Electrical Engineering & Information Technology at TUM** and **Flight & Vehicle Informatics at THI**. Outside university, I'm a **paramedic and firefighter**, and I work with radio, IT and vehicle technology for civil protection (*Katastrophenschutz*) in the context of the **BRK and fire services**.
 
 <details>
-<summary>🇩🇪 Auf Deutsch</summary>
-<br />
+<summary>🇩🇪 Auf Deutsch lesen</summary>
 
-Ich entwickle Software **vom Backend aus gedacht** – von APIs und Anwendungen bis zur Infrastruktur, auf der sie laufen. Meine Schwerpunkte sind **Self-Hosting, verteilte Systeme, Hochverfügbarkeit und zuverlässige Kommunikationstechnik**. Programmiersprachen sind für mich Werkzeuge; entscheidend sind die Architektur und das Problem, das gelöst werden soll.
+Ich bin **Full-Stack-Entwickler mit Schwerpunkt Backend** und arbeite gerne am Gesamtsystem – vom Anwendungscode über APIs und Netzwerke bis zur Infrastruktur und Hardware. Besonders interessieren mich **verteilte Systeme, Self-Hosting, Hochverfügbarkeit, Container-Orchestrierung und Kommunikationstechnik**. Die Programmiersprache ist für mich ein Werkzeug; entscheidend sind gute Architektur und zuverlässige Lösungen.
 
-Neben der IT bin ich **im Rettungsdienst und in der Feuerwehr aktiv**. Außerdem beschäftige ich mich mit Kommunikationssystemen im **Katastrophenschutz** – insbesondere Funk- und IT-Technik sowie dem technischen Ausbau von Einsatzfahrzeugen im Umfeld von **BRK und Feuerwehr**.
+Ich studiere **Elektrotechnik und Informationstechnik an der TUM** sowie **Flug- und Fahrzeuginformatik an der THI**. Daneben bin ich **im Rettungsdienst und bei der Feuerwehr aktiv** und beschäftige mich mit Funk-, IT- und Fahrzeugtechnik im **Katastrophenschutz** im Umfeld von **BRK und Feuerwehr**.
 
 </details>
 
-## 02 / Featured work · Ausgewählte Projekte
+## 02 / Featured projects · Ausgewählte Projekte
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🛡️ AegisMesh
-**Private infrastructure · Eigene Infrastruktur**
-
-My custom **high-availability, stateless hosting platform**, built around Docker Swarm, CDN integration and globally synchronized databases. It provides the infrastructure behind projects including Lumpenladen and Junge Poesie.
-
-*Meine eigene hochverfügbare Plattform für zustandslose Dienste mit Docker Swarm, CDN und weltweit synchronisierten Datenbanken.*
-
-`Docker Swarm` `Oracle Cloud` `Stateless Services` `Distributed Data`
-
+<h3>🛡️ <a href="https://aegismesh.xyz">AegisMesh</a></h3>
+<p><strong>Distributed hosting infrastructure</strong></p>
+<p>My Docker Swarm-based hosting and deployment infrastructure: stateless services, CDN and object storage, databases and distributed application hosting. It supports projects such as <a href="https://lumpenladen.net">Lumpenladen</a> and <a href="https://jungepoesie.de">Junge Poesie</a>.</p>
+<p>I'm developing AegisMesh into a unified platform for containers, managed PostgreSQL, domains and identity management. The wider European multi-node footprint is a <strong>planned architecture</strong>, not a claim of an already deployed 32-node fleet.</p>
+<p><em>Eigene Hosting-Plattform auf Docker-Swarm-Basis für zustandslose Dienste, CDN, Datenbanken und verteilte Anwendungen. Der europaweite Ausbau ist noch in Planung.</em></p>
+<p><code>Docker Swarm</code> <code>Oracle Cloud</code> <code>PostgreSQL</code> <code>Cloudflare</code></p>
+<p><a href="https://aegismesh.xyz">Website ↗</a> · <a href="https://github.com/SpyMinerX/aegismesh-console">Console repository ↗</a></p>
 </td>
 <td width="50%" valign="top">
-
-### 🛍️ [Lumpenladen](https://lumpenladen.net)
-**Multi-tenant commerce · Mandantenfähige Shop-Plattform**
-
-A launched multi-tenant shop platform with administration for tenants, products and orders. One of the applications supported by AegisMesh.
-
-*Eine veröffentlichte Shop-Plattform mit Mandantenverwaltung sowie Produkt- und Bestellverwaltung.*
-
-[Explore the platform →](https://lumpenladen.net)
-
+<h3>🐾 <a href="https://spyminer.dev/documents/Zoo-Management-System.pdf">Zoo Management System (ZMS)</a></h3>
+<p><strong>IoT · Automation · Industry 4.0</strong></p>
+<p>A modular automation and monitoring platform for zoo operations, using Raspberry Pi controllers, a <strong>custom hardware bus</strong> and a <strong>custom communication protocol</strong>. Designed for distributed, independently operating modules with environmental monitoring, climate and lighting automation, live dashboards and data logging.</p>
+<p><strong>Presented at Jugend forscht 2025.</strong></p>
+<p><em>Modulares Zoo-Managementsystem mit Raspberry-Pi-Steuerungen, eigenem Hardware-Bus und Kommunikationsprotokoll – für Monitoring, Klima- und Lichtautomatisierung sowie verteilte Steuerung.</em></p>
+<p><code>Node.js</code> <code>MySQL</code> <code>Raspberry Pi</code> <code>WebSockets</code></p>
+<p><a href="https://spyminer.dev/documents/Zoo-Management-System.pdf">Project documentation ↗</a> · <a href="https://github.com/SpyMinerX/ZWMS-v4">Repository ↗</a> · <a href="https://doi.org/10.13140/RG.2.2.26752.60161">Publication ↗</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ✍️ [Junge Poesie](https://jungepoesie.de)
-**Culture & community · Kultur & Gemeinschaft**
-
-The online home of **Poesieteam e.V.**, featuring poetry, publications and events for a literary community in Ingolstadt and Regensburg. Hosted through AegisMesh.
-
-*Die Plattform des Poesieteam e.V. für Gedichte, Publikationen und Veranstaltungen in Ingolstadt und Regensburg.*
-
-[Visit the platform →](https://jungepoesie.de)
-
+<h3>🛍️ <a href="https://lumpenladen.net">Lumpenladen</a></h3>
+<p><strong>Multi-tenant commerce</strong></p>
+<p>A launched, multi-tenant storefront platform with tenant, product and order administration, supported by my own hosting infrastructure.</p>
+<p><em>Veröffentlichte mandantenfähige Shop-Plattform mit Mandanten-, Produkt- und Bestellverwaltung.</em></p>
+<p><a href="https://lumpenladen.net">Visit Lumpenladen ↗</a></p>
 </td>
 <td width="50%" valign="top">
-
-### 🎨 [DoldenWerk](https://doldenwerk.de)
-**Digital presence · Webauftritt**
-
-A business web presence for print, textiles, merchandise and branding services.
-
-*Ein Webauftritt rund um Druck, Textilien, Merchandise und Markenaufbau.*
-
-[Visit DoldenWerk →](https://doldenwerk.de)
-
+<h3>✍️ <a href="https://jungepoesie.de">Junge Poesie</a></h3>
+<p><strong>Community &amp; publishing</strong></p>
+<p>A literary web platform for poetry, publications and events, hosted on my infrastructure.</p>
+<p><em>Webplattform für Gedichte, Veröffentlichungen und Veranstaltungen – betrieben auf meiner Infrastruktur.</em></p>
+<p><a href="https://jungepoesie.de">Visit Junge Poesie ↗</a></p>
 </td>
 </tr>
 </table>
 
-**More / Weitere Projekte:** [MedMesh](https://medmesh.de)
+**Other work / Weitere Projekte:** [DoldenWerk](https://doldenwerk.de) · [MedMesh](https://medmesh.de) · [More on my portfolio](https://spyminer.dev)
 
-<!-- Add a factual project description here once confirmed. -->
-
-> Some of my most interesting systems are private or infrastructure-focused. Public repository statistics tell only part of the story.
->
-> *Ein Teil meiner interessantesten Arbeit findet in privater Infrastruktur statt – öffentliche Repositories zeigen daher nur einen Ausschnitt.*
+> Not all of my infrastructure and client work is public. GitHub repository statistics only tell part of the story.  
+> *Nicht jedes Infrastruktur- oder Kundenprojekt ist öffentlich. Meine GitHub-Statistiken zeigen daher nur einen Ausschnitt.*
 
 ## 03 / Tech & engineering · Technologien
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,py,c,docker,linux,git&amp;theme=dark" alt="JavaScript, Python, C, Docker, Linux and Git" />
+<img src="https://skillicons.dev/icons?i=js,py,c,nodejs,docker,linux,git,postgres,mysql,cloudflare,raspberrypi&amp;theme=dark" alt="JavaScript, Python, C, Node.js, Docker, Linux, Git, PostgreSQL, MySQL, Cloudflare and Raspberry Pi" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Cloud Infrastructure" />
-<img src="https://img.shields.io/badge/Docker-Swarm-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker Swarm" />
-<img src="https://img.shields.io/badge/Architecture-Stateless_Services-0F766E?style=flat-square" alt="Stateless services" />
-<img src="https://img.shields.io/badge/Systems-High_Availability-0891B2?style=flat-square" alt="High availability" />
-
+<img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" />
+<img alt="Docker Swarm" src="https://img.shields.io/badge/Docker-Swarm-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+<img alt="Distributed architecture" src="https://img.shields.io/badge/Architecture-Distributed_Systems-0f766e?style=flat-square" />
+<img alt="Infrastructure" src="https://img.shields.io/badge/Focus-Self_Hosting_%26_HA-0891b2?style=flat-square" />
 </div>
 
-**Where I focus / Meine Schwerpunkte:** Backend engineering · Self-hosted infrastructure · Container orchestration · CDNs · Database synchronization · Networking & communications · System administration
+**My focus / Meine Schwerpunkte:** Backend systems · APIs · Container orchestration · Self-hosted platforms · Networking · Database architecture · IoT and embedded integration · Radio and communications technology
 
-**Languages / Sprachen:** JavaScript · Python · C — chosen according to the problem, not the other way around.
+**Languages / Sprachen:** JavaScript · Python · C — whichever best fits the application.
 
 ## 04 / Education & experience · Studium & Erfahrung
 
-- 🎓 **TUM** — Electrical Engineering & Information Technology / *Elektrotechnik und Informationstechnik*
-- 🎓 **THI** — Flight & Vehicle Informatics / *Flug- und Fahrzeuginformatik*
-- ⚛️ **UK Atomic Energy Authority (UKAEA)** — internship at **JET** / *Praktikum am JET*
+- 🎓 **Technical University of Munich (TUM)** — Electrical Engineering & Information Technology / *Elektrotechnik und Informationstechnik*
+- 🎓 **Technische Hochschule Ingolstadt (THI)** — Flight & Vehicle Informatics / *Flug- und Fahrzeuginformatik*
+- ⚛️ **UK Atomic Energy Authority (UKAEA)** — internship at the **Joint European Torus (JET)**
+- 🐾 **Jugend forscht 2025** — presentation of my **Zoo Management System**
 - 🚒 **Emergency services** — paramedic & firefighter / *Rettungsdienst & Feuerwehr*
-- 📻 **Civil protection** — radio, communications & vehicle IT / *Funk-, Kommunikations- und Fahrzeug-IT im Katastrophenschutz*
+- 📻 **Civil protection** — communications, radio and vehicle IT / *Funk-, Kommunikations- und Fahrzeugtechnik im Katastrophenschutz*
 
-## 05 / GitHub languages · Sprachen auf GitHub
+## 05 / Research & publications · Forschung & Publikationen
+
+📄 **[Zoo Management System: Eine modulare Plattform für digitale Verwaltung, Sensorik und Automatisierung im Zoobetrieb](https://doi.org/10.13140/RG.2.2.26752.60161)**
+
+A technical publication about my modular platform for digital zoo management, environmental sensing and automation.
+
+*Technische Veröffentlichung über mein modulares System für digitale Zooverwaltung, Sensorik und Automatisierung.*
+
+[**Read on ResearchGate ↗**](https://www.researchgate.net/publication/416978077_Zoo_Management_System_Eine_modulare_Plattform_fur_digitale_Verwaltung_Sensorik_und_Automatisierung_im_Zoobetrieb) · [**DOI ↗**](https://doi.org/10.13140/RG.2.2.26752.60161) · `10.13140/RG.2.2.26752.60161`
+
+<!-- Add verified authors, publication date, and venue if applicable. ResearchGate posting alone does not establish peer review. -->
+
+## 06 / Languages on GitHub · Sprachen auf GitHub
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true" alt="Languages used in public GitHub repositories" />
+  <img alt="Languages used in public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyMinerX&amp;layout=compact&amp;langs_count=7&amp;hide_border=true" />
 </picture>
 
-<sub>Based on public GitHub repositories, not a ranking of my skills. / Basierend auf öffentlichen Repositories, nicht auf meinem Kenntnisstand.</sub>
+<sub>Public repositories only — not a ranking of my proficiency. / Nur öffentliche Repositories – keine Bewertung meiner Kenntnisse.</sub>
 </div>
 
-## 06 / Let's connect · Kontakt
+## 07 / Let's connect · Kontakt
 
-I’m open to **selected freelance work, collaborations and engineering opportunities**, especially around **backend platforms, infrastructure, self-hosting and systems that solve real problems**.
+I'm open to **selected freelance projects, engineering opportunities and collaborations**—especially in **backend systems, infrastructure, communications and practical engineering**.
 
-*Ich bin offen für ausgewählte **Freelance-Projekte, Kooperationen und berufliche Möglichkeiten** – besonders in den Bereichen Backend, Infrastruktur, Self-Hosting und praxisnahe Systemtechnik.*
+*Ich bin offen für **ausgewählte Freelance-Projekte, berufliche Möglichkeiten und Kooperationen** – insbesondere rund um **Backend, Infrastruktur, Kommunikation und praxisnahe Systemtechnik**.*
 
-**[Portfolio](https://spyminer.dev) · [Email](mailto:contact@spyminer.dev) · [Discord](https://discord.com/users/418323201811152897)**
+**[Portfolio](https://spyminer.dev) · [AegisMesh](https://aegismesh.xyz) · [Email](mailto:contact@spyminer.dev) · [Discord](https://discord.com/users/418323201811152897)**
 
-<!-- TODO: Insert your confirmed LinkedIn profile URL here. -->
+<!-- Add your confirmed LinkedIn profile URL here. -->
 
-<div align="center">
-
-<sub>Built with curiosity, maintained with care. · Mit Neugier gebaut, mit Sorgfalt betrieben.</sub>
-
-</div>
+<div align="center"><sub>Build thoughtfully. Operate reliably. · Durchdacht entwickeln. Zuverlässig betreiben.</sub></div>
